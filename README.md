@@ -14,7 +14,7 @@ Manuale typeface is part of the new Omnibus-Type Press Series. Designed in four 
 * SemiBold/SemiBold Italic
 * Bold/Bold Italic
 
-To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
+To contribute to the project contact [Omnibus-Type](http://omnibus-type.com/).
 
 ### Designers
 
