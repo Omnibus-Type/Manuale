@@ -1,7 +1,5 @@
 {
-DisplayStrings = (
-"\U00DF\U00BC%/perthousand @&"
-);
+.appVersion = "909";
 classes = (
 {
 automatic = 1;
@@ -29,14 +27,14 @@ name = "Family Alignment Zones";
 value = (
 "{611, 20}",
 "{491, 24}",
-"{0, -11}",
+"{0, -11}"
 );
 }
 );
 date = "2016-01-20 16:29:05 +0000";
 designer = "Eduardo Tunni / Pablo Cosgaya";
 designerURL = "http://www.omnibus-type.com";
-familyName = "Manuale";
+familyName = Manuale;
 featurePrefixes = (
 {
 automatic = 1;
@@ -128,35 +126,35 @@ capHeight = 611;
 customParameters = (
 {
 name = typoAscender;
-value = "980";
+value = 980;
 },
 {
 name = typoDescender;
-value = "-236";
+value = -236;
 },
 {
 name = typoLineGap;
-value = "221";
+value = 221;
 },
 {
 name = winAscent;
-value = "980";
+value = 980;
 },
 {
 name = winDescent;
-value = "236";
+value = 236;
 },
 {
 name = hheaAscender;
-value = "980";
+value = 980;
 },
 {
 name = hheaDescender;
-value = "-236";
+value = -236;
 },
 {
 name = hheaLineGap;
-value = "221";
+value = 221;
 }
 );
 descender = -195;
@@ -199,11 +197,11 @@ capHeight = 614;
 customParameters = (
 {
 name = typoAscender;
-value = "877";
+value = 877;
 },
 {
 name = typoDescender;
-value = "-236";
+value = -236;
 },
 {
 name = typoLineGap;
@@ -211,23 +209,23 @@ value = 113;
 },
 {
 name = winAscent;
-value = "877";
+value = 877;
 },
 {
 name = winDescent;
-value = "236";
+value = 236;
 },
 {
 name = hheaAscender;
-value = "877";
+value = 877;
 },
 {
 name = hheaDescender;
-value = "-236";
+value = -236;
 },
 {
 name = hheaLineGap;
-value = "113";
+value = 113;
 }
 );
 descender = -195;
@@ -98205,26 +98203,29 @@ value = "--default-script=latn --windows-compatibility --composites --no-info --
 },
 {
 name = "Remove post names for webfonts";
-value = "1";
+value = 1;
 },
 {
 name = panose;
 value = (
-    2,
-    4,
-    5,
-    4,
-    5,
-    4,
-    5,
-    13,
-    2,
-    4
+2,
+4,
+5,
+4,
+5,
+4,
+5,
+13,
+2,
+4
 );
 }
 );
 interpolationWeight = 82;
 interpolationWidth = 5;
+instanceInterpolations = {
+"27799D80-F866-457E-9382-0097DC0AFC53" = 1;
+};
 isItalic = 1;
 name = Italic;
 },
@@ -98236,26 +98237,104 @@ value = "--default-script=latn --windows-compatibility --composites --no-info --
 },
 {
 name = "Remove post names for webfonts";
-value = "1";
+value = 1;
 },
 {
 name = panose;
 value = (
-    2,
-    4,
-    8,
-    4,
-    5,
-    4,
-    5,
-    13,
-    2,
-    4
+"2",
+"4",
+6,
+"4",
+"5",
+"4",
+"5",
+"13",
+"2",
+"4"
+);
+}
+);
+interpolationWeight = 96;
+interpolationWidth = 5;
+instanceInterpolations = {
+"91FB354D-039B-406A-8F87-4ABC8510003D" = 0.291667;
+"27799D80-F866-457E-9382-0097DC0AFC53" = 0.708333;
+};
+isItalic = 1;
+linkStyle = Medium;
+name = MediumItalic;
+weightClass = Medium;
+},
+{
+customParameters = (
+{
+name = "TTFAutohint options";
+value = "--default-script=latn --windows-compatibility --composites --no-info --strong-stem-width=gD";
+},
+{
+name = "Remove post names for webfonts";
+value = 1;
+},
+{
+name = panose;
+value = (
+"2",
+"4",
+7,
+"4",
+"5",
+"4",
+"5",
+"13",
+"2",
+"4"
+);
+}
+);
+interpolationWeight = 113;
+interpolationWidth = 5;
+instanceInterpolations = {
+"91FB354D-039B-406A-8F87-4ABC8510003D" = 0.645833;
+"27799D80-F866-457E-9382-0097DC0AFC53" = 0.354167;
+};
+isBold = 1;
+isItalic = 1;
+linkStyle = Medium;
+name = SemiboldItalic;
+weightClass = SemiBold;
+},
+{
+customParameters = (
+{
+name = "TTFAutohint options";
+value = "--default-script=latn --windows-compatibility --composites --no-info --strong-stem-width=gD";
+},
+{
+name = "Remove post names for webfonts";
+value = 1;
+},
+{
+name = panose;
+value = (
+2,
+4,
+8,
+4,
+5,
+4,
+5,
+13,
+2,
+4
 );
 }
 );
 interpolationWeight = 130;
 interpolationWidth = 5;
+instanceInterpolations = {
+"91FB354D-039B-406A-8F87-4ABC8510003D" = 1;
+};
 isBold = 1;
 isItalic = 1;
 name = "Bold Italic";
@@ -102994,5 +103073,5 @@ tH = 70;
 };
 };
 versionMajor = 0;
-versionMinor = 74;
+versionMinor = 75;
 }
