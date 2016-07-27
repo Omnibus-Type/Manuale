@@ -12,13 +12,13 @@
       Bold
     </namerecord>
     <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      0.074;OMNI;Manuale-Bold
+      0.075;OMNI;Manuale-Bold
     </namerecord>
     <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Manuale Bold
     </namerecord>
     <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      Version 0.074;PS 000.074;hotconv 1.0.88;makeotf.lib2.5.64775
+      Version 0.075;PS 000.075;hotconv 1.0.88;makeotf.lib2.5.64775
     </namerecord>
     <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0" unicode="True">
       Manuale-Bold
@@ -48,13 +48,13 @@
       Bold
     </namerecord>
     <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
-      0.074;OMNI;Manuale-Bold
+      0.075;OMNI;Manuale-Bold
     </namerecord>
     <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
       Manuale Bold
     </namerecord>
     <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
-      Version 0.074;PS 000.074;hotconv 1.0.88;makeotf.lib2.5.64775
+      Version 0.075;PS 000.075;hotconv 1.0.88;makeotf.lib2.5.64775
     </namerecord>
     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
       Manuale-Bold

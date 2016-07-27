@@ -27,7 +27,7 @@
     <mtx name="Cdotaccent" width="548" lsb="30"/>
     <mtx name="D" width="655" lsb="35"/>
     <mtx name="Dcaron" width="655" lsb="35"/>
-    <mtx name="Dcroat" width="655" lsb="35"/>
+    <mtx name="Dcroat" width="658" lsb="38"/>
     <mtx name="E" width="545" lsb="35"/>
     <mtx name="Eacute" width="545" lsb="35"/>
     <mtx name="Ebreve" width="545" lsb="35"/>
@@ -423,7 +423,7 @@
     <mtx name="two" width="510" lsb="6"/>
     <mtx name="two.dnom" width="413" lsb="28"/>
     <mtx name="two.numr" width="413" lsb="38"/>
-    <mtx name="two.osf" width="510" lsb="9"/>
+    <mtx name="two.osf" width="507" lsb="6"/>
     <mtx name="u" width="620" lsb="16"/>
     <mtx name="uacute" width="620" lsb="16"/>
     <mtx name="ubreve" width="620" lsb="16"/>

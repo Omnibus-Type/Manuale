@@ -55,36 +55,46 @@
     <cv index="50" value="-188"/>
     <cv index="51" value="877"/>
     <cv index="52" value="-236"/>
-    <cv index="53" value="77"/>
-    <cv index="54" value="77"/>
-    <cv index="55" value="86"/>
-    <cv index="56" value="86"/>
+    <cv index="53" value="135"/>
+    <cv index="54" value="135"/>
+    <cv index="55" value="67"/>
+    <cv index="56" value="67"/>
     <cv index="57" value="321"/>
     <cv index="58" value="-111"/>
-    <cv index="59" value="877"/>
-    <cv index="60" value="-236"/>
-    <cv index="61" value="330"/>
-    <cv index="62" value="-120"/>
+    <cv index="59" value="738"/>
+    <cv index="60" value="519"/>
+    <cv index="61" value="-11"/>
+    <cv index="62" value="-194"/>
     <cv index="63" value="877"/>
     <cv index="64" value="-236"/>
-    <cv index="65" value="77"/>
-    <cv index="66" value="77"/>
-    <cv index="67" value="86"/>
-    <cv index="68" value="86"/>
-    <cv index="69" value="710"/>
-    <cv index="70" value="278"/>
-    <cv index="71" value="817"/>
-    <cv index="72" value="655"/>
-    <cv index="73" value="270"/>
-    <cv index="74" value="877"/>
-    <cv index="75" value="-236"/>
-    <cv index="76" value="721"/>
-    <cv index="77" value="272"/>
-    <cv index="78" value="817"/>
-    <cv index="79" value="655"/>
-    <cv index="80" value="270"/>
-    <cv index="81" value="877"/>
-    <cv index="82" value="-236"/>
+    <cv index="65" value="330"/>
+    <cv index="66" value="-120"/>
+    <cv index="67" value="738"/>
+    <cv index="68" value="519"/>
+    <cv index="69" value="-11"/>
+    <cv index="70" value="-194"/>
+    <cv index="71" value="877"/>
+    <cv index="72" value="-236"/>
+    <cv index="73" value="135"/>
+    <cv index="74" value="135"/>
+    <cv index="75" value="67"/>
+    <cv index="76" value="67"/>
+    <cv index="77" value="614"/>
+    <cv index="78" value="277"/>
+    <cv index="79" value="738"/>
+    <cv index="80" value="519"/>
+    <cv index="81" value="-10"/>
+    <cv index="82" value="-188"/>
+    <cv index="83" value="877"/>
+    <cv index="84" value="-236"/>
+    <cv index="85" value="721"/>
+    <cv index="86" value="271"/>
+    <cv index="87" value="738"/>
+    <cv index="88" value="519"/>
+    <cv index="89" value="-10"/>
+    <cv index="90" value="-188"/>
+    <cv index="91" value="877"/>
+    <cv index="92" value="-236"/>
   </cvt>
 
 </ttFont>

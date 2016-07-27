@@ -23,6 +23,11 @@ Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); y
 
 This file provides detailed information on the Manuale font sources.  
 
+**2016 July 26 (v0.075) compatible masters - Nicolás Silva Schwarzenberg**
+
+- Sources with compatible paths
+- New Medium weight
+- New Semibold weight
 
 **2016 June 4 (v0.074) Initial Commit - Nicolás Silva Schwarzenberg**
 
