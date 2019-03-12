@@ -27,6 +27,19 @@ Copyright (c) 2015-2016, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.c
 
 Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); you may not use this file except in compliance with the License.
 
+### Building the fonts
+
+Fonts are built using [fontmake](https://github.com/googlei18n/fontmake) and [gftools](https://github.com/googlefonts/gftools). Execute the following commands in a CLI on Mac or Unix.
+
+```
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+cd sources
+sh build.sh
+
+```
+
 ======
 ## FONTLOG for the Manuale fonts
 
