@@ -1,5 +1,5 @@
 {
-.appVersion = "1192";
+.appVersion = "1230";
 classes = (
 {
 automatic = 1;
@@ -94193,7 +94193,7 @@ instanceInterpolations = {
 "320D1F10-23EA-4160-876F-9C954522C215" = 0.65385;
 "C2E97133-8774-4C1F-A96F-338CBADF7D3D" = 0.34615;
 };
-name = Semibold;
+name = SemiBold;
 weightClass = SemiBold;
 },
 {
@@ -98469,6 +98469,6 @@ tH = 55;
 };
 };
 };
-versionMajor = 0;
-versionMinor = 800;
+versionMajor = 1;
+versionMinor = 0;
 }

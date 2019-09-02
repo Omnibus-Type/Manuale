@@ -1,5 +1,5 @@
 {
-.appVersion = "1192";
+.appVersion = "1230";
 classes = (
 {
 automatic = 1;
@@ -97675,7 +97675,7 @@ instanceInterpolations = {
 };
 isItalic = 1;
 linkStyle = Medium;
-name = MediumItalic;
+name = "Medium Italic";
 weightClass = Medium;
 },
 {
@@ -97687,7 +97687,7 @@ instanceInterpolations = {
 };
 isItalic = 1;
 linkStyle = SemiBold;
-name = SemiboldItalic;
+name = "SemiBold Italic";
 weightClass = SemiBold;
 },
 {
@@ -102433,6 +102433,6 @@ tH = 70;
 };
 };
 };
-versionMajor = 0;
-versionMinor = 800;
+versionMajor = 1;
+versionMinor = 0;
 }
