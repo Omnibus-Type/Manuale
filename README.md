@@ -3,7 +3,7 @@
 **Omnibus-Type**  
 *SIL Open Font License, 1.1*
 
-Manuale typeface is part of the new Omnibus-Type Press Series. Designed in six styles (light, light italic, regular, italic, bold, bold italic, extrabold, extrabold italic) for print and online books, newspapers and magazines.
+Manuale typeface is part of the new Omnibus-Type Press Series. Designed in twelve styles (light, light italic, regular, italic, medium, medium Italic, semibold, semibold italic, bold, bold italic, extrabold, extrabold italic) for print and online books, newspapers and magazines.
 
 ![Sample of Manuale Family.](./documentation/Manuale.png "Manuale")
 
