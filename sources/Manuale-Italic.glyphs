@@ -1,5 +1,5 @@
 {
-.appVersion = "1274";
+.appVersion = "1290";
 classes = (
 {
 automatic = 1;
@@ -56,9 +56,21 @@ value = (
 "{0, -11}",
 "{-158, -10}"
 );
+},
+{
+name = "Variable Font Family Name";
+value = Manuale;
+},
+{
+name = "Variable Font File Name";
+value = "Manuale Italic";
+},
+{
+name = "Variable Font Origin";
+value = "44981724-2b4e-42be-8f7f-300520b6a406";
 }
 );
-date = "2019-11-22 23:12:50 +0000";
+date = "2020-02-19 00:00:37 +0000";
 designer = "Eduardo Tunni / Pablo Cosgaya";
 designerURL = "http://www.omnibus-type.com";
 disablesNiceNames = 1;
@@ -132616,6 +132628,8 @@ interpolationWeight = 69;
 instanceInterpolations = {
 "44981724-2b4e-42be-8f7f-300520b6a406" = 1;
 };
+isItalic = 1;
+linkStyle = Light;
 name = "Light Italic";
 weightClass = Light;
 },
@@ -132698,6 +132712,8 @@ interpolationWeight = 147;
 instanceInterpolations = {
 "8454c77d-11ac-4429-aa94-301a0d22d44f" = 1;
 };
+isItalic = 1;
+linkStyle = ExtraBold;
 name = "ExtraBold Italic";
 weightClass = ExtraBold;
 }

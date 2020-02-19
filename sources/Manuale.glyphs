@@ -1,5 +1,5 @@
 {
-.appVersion = "1274";
+.appVersion = "1290";
 classes = (
 {
 automatic = 1;
@@ -56,9 +56,21 @@ value = (
 "{0, -10}",
 "{-167, -10}"
 );
+},
+{
+name = "Variable Font Family Name";
+value = Manuale;
+},
+{
+name = "Variable Font File Name";
+value = Manuale;
+},
+{
+name = "Variable Font Origin";
+value = "5f75e36f-2d9b-434e-b133-1931d65175c8";
 }
 );
-date = "2019-11-22 23:13:20 +0000";
+date = "2020-02-18 23:59:30 +0000";
 designer = "Eduardo Tunni / Pablo Cosgaya";
 designerURL = "http://www.omnibus-type.com";
 disablesNiceNames = 1;
@@ -112250,7 +112262,7 @@ instanceInterpolations = {
 "320D1F10-23EA-4160-876F-9C954522C215" = 0.65385;
 "C2E97133-8774-4C1F-A96F-338CBADF7D3D" = 0.34615;
 };
-name = Semibold;
+name = SemiBold;
 weightClass = SemiBold;
 },
 {
