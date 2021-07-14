@@ -1,5 +1,5 @@
 {
-.appVersion = "1350";
+.appVersion = "1342";
 classes = (
 {
 automatic = 1;
@@ -60,14 +60,6 @@ value = (
 {
 name = "Variable Font Family Name";
 value = Manuale;
-},
-{
-name = "Variable Font File Name";
-value = "Manuale[wght]";
-},
-{
-name = "Variable Font Origin";
-value = "5f75e36f-2d9b-434e-b133-1931d65175c8";
 }
 );
 date = "2020-02-18 23:59:30 +0000";
@@ -114811,5 +114803,5 @@ tH = 55;
 LWPluginVersion = "1429";
 };
 versionMajor = 1;
-versionMinor = 1;
+versionMinor = 2;
 }
